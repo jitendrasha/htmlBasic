@@ -1,0 +1,22 @@
+
+
+
+body{
+    background-image: url("ht.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#two{
+    height:100px; 
+    width: 100px;
+    background-color: blue;
+    border: 5px solid red;
+}
+ul ol{
+    text-shadow: 2px;
+   
+    color: red;
+}
+ul > li {
+   color: rgb(230, 199, 199);
+}
